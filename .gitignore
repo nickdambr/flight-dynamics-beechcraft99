@@ -1,0 +1,35 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.autosave
+octave-workspace
+
+# Simulink
+*.slxc
+*.mdl.unknown_version
+*.slx.autosave
+slprj/
+sccprj/
+codegen/
+
+# MATLAB project caches
+.SimulinkProject/
+_SimulinkProject/
+resources/.Project/
+resources/.SimulinkProject/
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Generated on demand by src/export_figures.m — report already contains them
+figures/
